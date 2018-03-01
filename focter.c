@@ -2,12 +2,12 @@
 
 int main(void) 
 {
-	int n,i;
+	int a,i;
 	printf("enter the number:");
-	scanf("%d",&n);
-	for(i=1;i<=n;i++)
+	scanf("%d",&a);
+	for(i=1;i<=a;i++)
 	{
-		if(n%i==0)
+		if(ai==0)
 		{
 			printf("%d ",i);
 		}
